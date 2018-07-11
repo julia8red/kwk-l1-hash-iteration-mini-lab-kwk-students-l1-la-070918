@@ -10,4 +10,4 @@ place_array.each do |place|
   index += 1
 end
 
-puts 
+puts place_array
