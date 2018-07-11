@@ -5,12 +5,6 @@ summer_olympics_hash = {}
 
 index = 0
 
-place_array.each do |place|
-  place_array[place] = year[index]
-  index += 1
-end
-
-
 place_array.each do |place, year|
   puts "place: #{place_array}"
   puts "year: #{year}"
