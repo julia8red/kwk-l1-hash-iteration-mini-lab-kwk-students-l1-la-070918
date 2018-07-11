@@ -10,5 +10,4 @@ place_array.each do |place, year|
   puts "year: #{year}"
 end
 
-
 puts place_array
